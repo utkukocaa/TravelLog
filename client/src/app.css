@@ -1,0 +1,16 @@
+.popup {
+  width: 200px;
+  padding: 10px;
+}
+
+.popup img {
+  width: auto;
+  height: 180px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+
+.popup h3 {
+  display: block;
+}
